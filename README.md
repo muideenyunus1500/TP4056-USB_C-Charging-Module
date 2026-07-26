@@ -20,8 +20,12 @@ Features
 - Drill files
 - Bill of Materials (BOM)
 - Project images
+
 Image/3d_with_components.png
+
 Image/pcb.png
+
 Image/Schematic.png
+ 
  Author
 **Muideen Olamide**
